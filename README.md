@@ -1,0 +1,1 @@
+This is a test project generated during the ISMB2019 tutorial on Reproducible Workflows
